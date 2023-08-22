@@ -11,4 +11,4 @@ ddev poweroff
 ddev start -y
 
 # further install steps 
-ddev composer install 
+# ddev composer install 
