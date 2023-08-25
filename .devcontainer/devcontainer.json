@@ -3,5 +3,4 @@
   "features": {
     "ghcr.io/ddev/ddev/install-ddev:latest": {}
   },
-  "postCreateCommand": "bash -c 'ddev debug download-images && ddev poweroff'"
 }
